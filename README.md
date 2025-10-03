@@ -27,6 +27,7 @@ Here are some of the tools and technologies I’ve worked with:
 
 ### 🔹 Meal Deal Finder 
 **Tools**: Python, pandas, streamlit 
+
 A program that helps users find the most cost-effective meal combinations designed to reduce overspending by comparing individual item prices from different retailers.
 
 ---
