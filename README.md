@@ -25,6 +25,19 @@ Here are some of the tools and technologies I’ve worked with:
 
 ## 📂 Featured Projects
 
+### 🔹 Operational Insight – Bottleneck Prediction Platform *(Break Through Tech x Chambers Capital)*
+**Tools:** Python, Pandas, PM4Py, scikit-learn, Streamlit, Matplotlib  
+
+Developed an end-to-end data pipeline that analyzes anonymized operational event logs from small-to-medium businesses (SMBs) to **identify and predict workflow bottlenecks**.  
+- Cleaned and explored 2k+ process-log events to uncover early inefficiency trends  
+- Engineered features such as `duration variance`, `system load`, and `queue length`  
+- Trained Decision Tree and Random Forest models to classify bottleneck events  
+- Built visual dashboards and an executive playbook quantifying potential **cycle-time reductions**  
+
+*This repository is private due to data confidentiality. A public demo version is in progress.*
+
+---
+
 ### 🔹 Meal Deal Finder 
 **Tools**: Python, pandas, streamlit 
 
