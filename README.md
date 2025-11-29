@@ -21,7 +21,7 @@ I’m a **Data Science & AI student** at Florida International University (Class
 ## 📂 Featured Projects
 
 ### 🔹 Weak Supervision for Bottleneck Detection  
-**Tools:** Python, scikit-learn, Pandas, Streamlit, Matplotlib  
+**Tools:** Python, scikit-learn, Pandas, Streamlit, Matplotlib, Jupyter
 
 Built a validated weak-supervision pipeline to identify workflow bottlenecks with minimal labeled data.
 
@@ -49,7 +49,7 @@ Built a multi-page Streamlit app that helps users manage ingredients, generate r
 ---
 
 ### 🔹 Gold vs. S&P 500 Outperformance Prediction  
-**Tools:** Python, Pandas, NumPy, Matplotlib, scikit-learn  
+**Tools:** Python, Pandas, NumPy, Matplotlib, scikit-learn, Jupyter, Conda
 
 Built a binary classifier to predict when gold outperforms the S&P 500 using 18 years of macroeconomic time-series data.
 
