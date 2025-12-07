@@ -53,8 +53,8 @@ Built a multi-page Streamlit app that helps users manage ingredients, generate r
 
 Built a binary classifier to predict when gold outperforms the S&P 500 using 18 years of macroeconomic time-series data.
 
-- Combined 12 datasets (gold prices, S&P 500, CPI, oil, federal funds rate, VIX, yields, USD index, jobs data)  
-- Engineered 30+ lag features, rolling stats, volatility measures, and momentum indicators  
+- Combined 11 macroeconomic + commodities datasets 
+- Engineered 40+ lag features, rolling stats, volatility measures, and momentum indicators  
 - Performed EDA identifying crisis periods (2008, 2020) as predictive turning points  
 - Trained Logistic Regression, Random Forest, and XGBoost using proper time-based splits  
 - **Logistic Regression was the top model**, achieving **76% ROC AUC**  
